@@ -1,0 +1,7 @@
+FILE NAME AND THERE VALIDATION FILES NAMES
+
+LoginScript.js is the validation for Login.php
+signUp.js is the validation for Register.php
+Script.js is the validation for Loan.php
+Creditscript.js is the validation for Credit.php
+contact.js is the validation for ContactUs.php
